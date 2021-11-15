@@ -2,5 +2,7 @@
 /* tslint:disable */
 /* eslint-disable */
 export type { Greeter } from "./Greeter";
+export type { Ownable } from "./Ownable";
 
 export { Greeter__factory } from "./factories/Greeter__factory";
+export { Ownable__factory } from "./factories/Ownable__factory";
