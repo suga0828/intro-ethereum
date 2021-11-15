@@ -1,3 +1,6 @@
+Code generated following this [course](https://www.youtube.com/playlist?list=PLA0EjXXZSf4fWVXHH__NgZC8lFiJP-8cT).
+Ownable Contract deployed on [Rinkeby](https://rinkeby.etherscan.io/) (Ethereum Testnet) at [this address](https://rinkeby.etherscan.io/address/0xdca0467913efe52e37c7d4f422585df6b05f6615).
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
